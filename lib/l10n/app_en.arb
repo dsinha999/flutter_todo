@@ -1,0 +1,8 @@
+{
+    "language": "English",
+    "appName": "ToDo",
+    "login": "LOGIN",
+    "@language": {
+      "description": "The current language is english."
+    }
+}
